@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#558b2f</color>
+    <color name="primaryLightColor">#85bb5c</color>
+    <color name="primaryDarkColor">#255d00</color>
+    <color name="secondaryColor">#ff8f00</color>
+    <color name="secondaryLightColor">#ffc046</color>
+    <color name="secondaryDarkColor">#c56000</color>
+    <color name="primaryTextColor">#fafafa</color>
+    <color name="secondaryTextColor">#212121</color>
+
+
+    <color name="correct">#43A205</color>
+    <color name="incorrect">#D50000</color>
+    <color name="youWinDark">#13f97c</color>
+    <color name="youWinBackground">#B7F8C9</color>
+    <color name="gameOverBackground">#f8bbd0</color>
+</resources>
